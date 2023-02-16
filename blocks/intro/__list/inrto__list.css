@@ -1,4 +1,4 @@
-.inrto__lists {
+.inrto__list {
   font-style: normal;
   font-weight: 700;
   font-size: 12px;
@@ -10,13 +10,13 @@
 }
 
 @media screen and (max-width: 860px) {
-  .inrto__lists {
+  .inrto__list {
     margin-bottom: 88px;
   }
 }
 
 @media screen and (max-width: 320px) {
-  .inrto__lists {
+  .inrto__list {
     margin-bottom: 64px;
   }
 }
