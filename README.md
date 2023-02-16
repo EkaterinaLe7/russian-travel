@@ -12,7 +12,7 @@
 * Медиазапросы (media queries)
   
 Ознакомиться с сайтом вы можете на GitHub Pages по ссылке:  
-[Ссылка на макет в Figma]  
+[https://ekaterinale7.github.io/russian-travel/index.html]  
   
 Контактная информация:  
 Екатeрина Лечицкая  
